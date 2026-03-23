@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+env/
+
+# AI Models
+*.pt
+*.pth
+*.h5
+
+# Data
+data/
+datasets/
+
+# Media
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+
+# Logs
+*.log
